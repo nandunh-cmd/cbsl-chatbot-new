@@ -12,11 +12,10 @@
       "dest": "/server.js"
     }
   ],
-  "functions": [
+  "functions": {
     "server.js": {
       "runtime": "nodejs18.x",
       "maxDuration": 10
     }
-  ]
+  }
 }
-
